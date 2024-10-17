@@ -109,6 +109,6 @@ To calculate `Damage Bonus` and `Build`, use the following table:
 
 ## Backstory
 Fill out `Ideology` / `Belief`, `Significant people`, `Meaningful Locations`, `Treasured Possessions` and `Traits`.
-Invent your own stuff or use the official template
+Invent your own stuff or use the sample list included as a PDF in this repository.
 ## Equipment
 Choose something that your character should own, given their `Occupation`
