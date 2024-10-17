@@ -82,7 +82,7 @@ Notice the '+' sign. These are to be added **on top** of the default skill value
 For the `language` skill, you should list your 'native language' (English, most of the times) and set its value be `EDU` <br/>
 `language` (English) = `EDU`
 
-If, either due to your `occupation` or for a `Personal Interests`, you know another `language`, list it's name and assign it skill points.
+If, either due to your `occupation` or for a `Personal Interests`, you know another `language`, list it's name and assign it skill points in the same way as the other skills in the same section (for example, if it is a `personal interest`, +20 to a `Language` of your choice).
 
 
 ## Weapons
