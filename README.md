@@ -70,7 +70,7 @@ For your `occupation` skills, including `Credit Rating`, you get the following p
 Try to fit your `Credit Rating` with what seems to be appropriate for your `occupation` of choice. For example, Private Investigators are not particularily rich or classy.
 
 ### Personal Interests
-These skills are what your character is interested outside his `occupation`. You may choose any skill you want, with the exception of `Credit Rating` (which wasalready filled in the `occupation` section), and the `Cthulhu Mythos` skills, which can only be gained through experience.
+These skills are what your character is interested outside his `occupation`. You may choose any skill you want, with the exception of `Credit Rating` (which was already filled in the `occupation` section), and the `Cthulhu Mythos` skills, which can only be gained through experience.
 
 The skill points for this section are: <br/>
 +20, +20, +20, +20, +20
