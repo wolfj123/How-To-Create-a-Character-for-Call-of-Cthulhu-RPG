@@ -33,7 +33,7 @@ To calculate your `Move Rate`:
 * Else: `Move Rate` = 8
 
 ## Hit Points, Sanity, Luck & Magic Points
-In addition to your main `Characteristics, you have the following stats:
+In addition to your main `Characteristics`, you have the following stats:
 * `Hit Points`: How much health before you collapse, faint or die
 * `Sanity`: How mentally stable you are
 * `Luck`: How lucky you are
