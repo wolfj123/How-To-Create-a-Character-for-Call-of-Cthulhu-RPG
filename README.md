@@ -3,10 +3,10 @@ These are the "quick" rules to making a character, called an `Investigator`, in 
 ## How to use this repository
 In this repository you will find `character sheets` in the form of PDF files. The `CoC 7e - 1920s - Character Sheet.pdf` file is the default file for a character in the 1920s. However, additionaly, there are 2 PDF files that can auto-calculate the skill values, one for a character in the 1920s and one for the Modern era. It is recommended to read this guide while you have the `character sheet` open.
 
-You can download the files by pressing on the green "<> Code" button and choosing "Download ZIP".
+You can download the files by pressing on the green "**<> Code**" button and choosing "**Download ZIP**".
 ## Characteristics
 ### What are Characteristics?
-Your character main `Characteristics` are the following:
+Your character's main `Characteristics` are the following:
 * `STR` - **Strength**: How strong you are
 * `CON` - **Constituition**: How physically resilient you are
 * `SIZ` - **Size**: How big you are
@@ -50,13 +50,13 @@ These stats are differnet in that these may frequently change during play. There
 ### Luck
 `Luck` = **3D6** * 5
 
-Roll **3D6** (roll 3 normal 6-sided dice, and add up the result). **Multiply the result by 5**. That's you `Luck`.
+Roll **3D6** (roll 3 normal 6-sided dice, and add up the result). **Multiply the result by 5**. That's your `Luck`.
 
 ### Magic Points
 `Magic Points` = `POW` / 5
 
 ## Skills
-This section includes your character's `skills`. When first creating a character, you skills come from either your `occupation` (your job) or your `Personal Interests`. <br/>
+This section includes your character's `skills`. When first creating a character, your skills come from either your `occupation` (your job) or your `Personal Interests`. <br/>
 Notice that in your `character sheet`, there are numbers listed next to the `skills`. These are `default skills`. You always get these points regardless of `occupation` or `personal interests`.
 
 ### Occupation
@@ -108,7 +108,7 @@ To calculate `Damage Bonus` and `Build`, use the following table:
 
 
 ## Backstory
-- Fill out `Ideology` / `Belief`, `Significant people`, `Meaningful Locations`, `Treasured Possessions` and `Traits`
-- Invent your own stuff or use the official template
+Fill out `Ideology` / `Belief`, `Significant people`, `Meaningful Locations`, `Treasured Possessions` and `Traits`.
+Invent your own stuff or use the official template
 ## Equipment
-- Choose something that your character should own, given their `Occupation`
+Choose something that your character should own, given their `Occupation`
