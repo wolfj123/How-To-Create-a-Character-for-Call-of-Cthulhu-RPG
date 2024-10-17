@@ -3,6 +3,7 @@ These are the "quick" rules to making a character, called an `Investigator`, in 
 ## How to use this repository
 In this repository you will find `character sheets` in the form of PDF files that can auto-calculate the skill values. It is recommended to read this guide while you have the `character sheet` open.
 In addition, there are several sample lists for `occupations` and `backstories`.
+Please note that there are 2 different `character sheets`, corresponding to 2 different settings - the 1920s and modern times.
 
 You can download the files by pressing on the green "<> Code" button and choosing "Download ZIP".
 ## Characteristics
