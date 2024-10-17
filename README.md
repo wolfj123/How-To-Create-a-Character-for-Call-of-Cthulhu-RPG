@@ -86,7 +86,7 @@ If, either due to your `occupation` or for a `Personal Interests`, you know anot
 
 
 ## Weapons
-List here any weapons in your possesion. The `weapon` stats should be consulted with the `Keeper` (the Game Master).
+List here any `weapons` in your possesion. The `weapon` stats should be consulted with the `Keeper` (the Game Master).
 
 ## Combat
 `Damage Bonus`, or `DB` in short, is added to your physical melee attacks. `Build` is a combination of your strength and size - relevant when trying to pull off fighting manuevers against enemies, like tripping them or holding them down. `Dodge` is your ability to evade attacks.
