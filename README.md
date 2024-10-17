@@ -1,7 +1,10 @@
 # How To Create a Character for Call of Cthulhu RPG
 These are the "quick" rules to making a character, called an `Investigator`, in the role-playing game `Call of Cthulhu`.
+## How to use this repository
 In this repository you will find `character sheets` in the form of PDF files that can auto-calculate the skill values. It is recommended to read this guide while you have the `character sheet` open.
 In addition, there are several sample lists for `occupations` and `backstories`.
+
+You can download the files by pressing on the green "<> Code" button and choosing "Download ZIP".
 ## Characteristics
 ### What are Characteristics?
 Your character main `Characteristics` are the following:
