@@ -1,7 +1,7 @@
 # How To Create a Character for Call of Cthulhu RPG
 These are the "quick" rules to making a character, called an `Investigator`, in the role-playing game `Call of Cthulhu`.
 ## How to use this repository
-In this repository you will find `character sheets` in the form of PDF files. The `CoC 7e - 1920s - Character Sheet.pdf` file is the default file for a character in the 1920s. However, additionaly, there are 2 PDF files that can auto-calculate the skill values, one for a character in the 1920s and one for the Modern era. It is recommended to read this guide while you have the `character sheet` open.
+In this repository you will find `character sheets` in the form of PDF files. The `CoC 7e - 1920s - Character Sheet.pdf` file is the default file for a character in the 1920s. However, additionaly, there are 2 PDF files that can auto-calculate the skill values, one for a character in the 1920s and one for the Modern era. It is recommended to read this guide while you have the `character sheet` open. It is EVEN MORE recommended to use one of the "auto-calc" PDF files, as they will automatically calculate derived stats.
 
 You can download the files by pressing on the green "**<> Code**" button and choosing "**Download ZIP**".
 ## Characteristics
