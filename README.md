@@ -5,7 +5,7 @@ In this repository you will find `character sheets` in the form of PDF files. Th
 
 You can download the files by pressing on the green "**<> Code**" button and choosing "**Download ZIP**".
 ## Characteristics
-### What are Characteristics?
+### What are `Characteristics`?
 Your character's main `Characteristics` are the following:
 * `STR` - **Strength**: How strong you are
 * `CON` - **Constituition**: How physically resilient you are
