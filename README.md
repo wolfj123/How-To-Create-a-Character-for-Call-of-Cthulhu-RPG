@@ -9,6 +9,9 @@ You can download the files by pressing on the green "**<> Code**" button and cho
 `Call of Cthulhu` is percentile system. Meaning that when doing a skill check, we roll **D100** (a dice roll between 1 and 100) and try to roll **below** our skill level. So, for example, if I have a `Throw skill` of 40, I will achieve `Regular Sucess` if the number on the dice is 40 or below. Therefore a skill level of 40 means that I have a 40% of succeeding. Beyond just a `Regular Success`, you can also get a `Hard Success` if you **roll half or below** it of your skill (so 20 in our example), or even an `Extreme Success` in case we roll **equal to or below a fifth** of our skill level (so 8 in our example). If we roll a 1, it is always a `Critical Success` and if we roll 96-100, it is considered a `Fumble` (which is very bad). <br/>
 Some skill checks will require a `Hard Success` or `Extreme Success` to actually succeed.
 
+### Filling out the numbers
+Notice that next to each stat there are 3 boxes: 1 large one and 2 small ones. The larger one is for your skill level. So, If I have a `Throw skill` of 40, I will just write 40 in the large box. In the 2 smaller boxes I will fill the value of **half my skill** and of a **fifth of my skill**. These are used to quickly detemine `Hard Successes` and `Extreme Successes`, as described in the previous section.
+
 ## Characteristics
 ### What are `Characteristics`?
 Your character's main `Characteristics` are the following:
