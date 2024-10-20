@@ -6,8 +6,8 @@ In this repository you will find `character sheets` in the form of PDF files. Th
 You can download the files by pressing on the green "**<> Code**" button and choosing "**Download ZIP**".
 
 ## How Skill Checks work in `Call of Cthulhu`
-`Call of Cthulhu` is percentile system. Meaning that when doing a skill check, we roll **D100** and try to roll **below** our skill level. So, for example, if I have a `Throw skill` of 40, I will succeed if the number on the dice is 40 or below. Therefore a skill level of 40 means that I have a 40% of succeeding. Beyond just a `Regular Success`, you can also get a `Hard Success` if you roll half or below it of your skill (so 20 in our example), or even an `Extreme Success` in case we roll equal to or below a fifth of our skill level (so 8 in our example). If we roll a 1, it is always a `Critical Success` and if we roll 96-100, it is considered a `Fumble` (which is very bad).
-
+`Call of Cthulhu` is percentile system. Meaning that when doing a skill check, we roll **D100** and try to roll **below** our skill level. So, for example, if I have a `Throw skill` of 40, I will succeed if the number on the dice is 40 or below. Therefore a skill level of 40 means that I have a 40% of succeeding. Beyond just a `Regular Success`, you can also get a `Hard Success` if you roll half or below it of your skill (so 20 in our example), or even an `Extreme Success` in case we roll equal to or below a fifth of our skill level (so 8 in our example). If we roll a 1, it is always a `Critical Success` and if we roll 96-100, it is considered a `Fumble` (which is very bad). <br/>
+Some skill checks will require a `Hard Success` or `Extreme Success` to actually succeed.
 
 ## Characteristics
 ### What are `Characteristics`?
@@ -56,6 +56,9 @@ These stats are differnet in that these may frequently change during play. There
 `Luck` = **3D6** * 5
 
 Roll **3D6** (roll 3 normal 6-sided dice, and add up the result). **Multiply the result by 5**. That's your `Luck`.
+
+#### Spending Luck
+`Luck` is a special skill. It is used in `Luck` rolls, to detemine if luck was on our side in a given situation. However, `Luck` can be also spent to improve dice rolls. For example, suppose that I have a `Throw Skill` of 40, and I rolled 47. It is above my skill level, therefore I failed the skill check. However, I can choose to **spend luck** to improve my roll. So in our example, I can permanently spend 7 `Luck points` to make the roll a success.
 
 ### Magic Points
 `Magic Points` = `POW` / 5
