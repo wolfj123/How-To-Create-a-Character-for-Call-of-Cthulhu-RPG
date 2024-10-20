@@ -8,7 +8,7 @@ You can download the files by pressing on the green "**<> Code**" button and cho
 ### What are `Characteristics`?
 Your character's main `Characteristics` are the following:
 * `STR` - **Strength**: How strong you are
-* `CON` - **Constituition**: How physically resilient you are
+* `CON` - **Constitution**: How physically resilient you are
 * `SIZ` - **Size**: How big you are
 * `DEX` - **Dexterity**: How agile you are
 * `APP` - **Appearance**: How handsome you are
