@@ -4,6 +4,11 @@ These are the "quick" rules to making a character, called an `Investigator`, in 
 In this repository you will find `character sheets` in the form of PDF files. The `CoC 7e - 1920s - Character Sheet.pdf` file is the default file for a character in the 1920s. However, additionaly, there are 2 PDF files that can auto-calculate the skill values, one for a character in the 1920s and one for the Modern era. It is recommended to read this guide while you have the `character sheet` open. It is EVEN MORE recommended to use one of the "auto-calc" PDF files, as they will automatically calculate derived stats.
 
 You can download the files by pressing on the green "**<> Code**" button and choosing "**Download ZIP**".
+
+## How Skill Checks work in `Call of Cthulhu`
+`Call of Cthulhu` is percentile system. Meaning that when doing a skill check, we roll **D100** and try to roll **below** our skill level. So, for example, if I have a `Throw skill` of 40, I will succeed if the number on the dice is 40 or below. Therefore a skill level of 40 means that I have a 40% of succeeding. Beyond just a `Regular Success`, you can also get a `Hard Success` if you roll half or below it of your skill (so 20 in our example), or even an `Extreme Success` in case we roll equal to or below a fifth of our skill level (so 8 in our example). If we roll a 1, it is always a `Critical Success` and if we roll 98-100, it is considered a `Fumble` (which is very bad).
+
+
 ## Characteristics
 ### What are `Characteristics`?
 Your character's main `Characteristics` are the following:
@@ -30,7 +35,7 @@ So, for example, you can assign `STR`=40, `CON`=50, `SIZ`=50, `DEX`=80, etc...
 To calculate your `Move Rate`:
 * If `DEX` < `SIZE` & `STR` < `SIZE`: `Move Rate` = 7
 * If `DEX` > `SIZE` & `STR` > `SIZE`: `Move Rate` = 9
-* Else: `Move Rate` = 8
+* Else - `Move Rate` = 8
 
 ## Hit Points, Sanity, Luck & Magic Points
 In addition to your main `Characteristics`, you have the following stats:
@@ -56,8 +61,8 @@ Roll **3D6** (roll 3 normal 6-sided dice, and add up the result). **Multiply the
 `Magic Points` = `POW` / 5
 
 ## Skills
-This section includes your character's `skills`. When first creating a character, your skills come from either your `occupation` (your job) or your `Personal Interests`. <br/>
-Notice that in your `character sheet`, there are numbers listed next to the `skills`. These are `default skills`. You always get these points regardless of `occupation` or `personal interests`.
+This section includes your character's `skills`. When first creating a character, your skills come from either your `occupation` (your job) or your `Personal Interests`. During your adventures your skills may be enhanced through experience. <br/>
+Notice that in your `character sheet` there are numbers listed next to the `skills`. These are `default skills`. You always get these points regardless of `occupation` or `personal interests`.
 
 ### Occupation
 Each occupation gives you a list of 8 `skills` + `Credit Rating`. `Credit Ratings` is a general way of defining how rich you are and how upper class you look.
